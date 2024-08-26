@@ -4,4 +4,4 @@
 
 - still chill
 
-[My Website](Website/)
+[My Website](Website/profil.html)
