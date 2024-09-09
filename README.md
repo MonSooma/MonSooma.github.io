@@ -1,9 +1,9 @@
 # MonSooma.github.io
 
-## hi
+## Greetings, Cyborg
 
-- still chill
 
-- hi guys uwu
+
+
 
 [My Website](Website/profil.html)
